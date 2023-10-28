@@ -10,8 +10,6 @@
 
 [![Foxes](https://i.ytimg.com/vi/bD0mresKnTY/maxresdefault.jpg)](https://www.youtube.com/watch?v=6RKQAu28W4A)
 
+[^1]Look Wikipedia.
 
-![ThankYou](https://i.pinimg.com/564x/ad/5d/0c/ad5d0c97cd7b64573d8eca730253d243.jpg/)
-
-[^1] Look Wikipedia.
-[^2] Another footnote.
+[^2] Another.
