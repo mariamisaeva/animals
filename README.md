@@ -10,4 +10,5 @@
 + [Fox :fox_face: ](https://github.com/mariamisaeva/animals/blob/new-feature/fox.md#foxes)
 
 ============================
+
 Thank you :)
